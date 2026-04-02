@@ -10,7 +10,7 @@ This project is a simple **Laravel 12** for managing train data, developed as pa
 
 ### Step 1: Clone the Repository
 ```bash
-git https://github.com/jesselzapanta09/train-laravel-api.git
+git clone https://github.com/jesselzapanta09/train-laravel-api.git
 cd train-laravel-api
 ```
 
