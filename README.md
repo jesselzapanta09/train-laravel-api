@@ -42,7 +42,6 @@ php artisan migrate:fresh
 php artisan key:generate    
 ```
 
-
 ### Step 5: Run the Server
 ```bash
 php artisan serve --port=5000
